@@ -3,7 +3,7 @@ Blake Sartor - sarto019
 
 readme.txt
 
-  The Server attempts to open a socket on port 5001, and using try and catches
+  The Server attempts to open a socket on port 5001, and uses try and catches
   to handle exceptions. A thread is created for each client that connects
   to the server. This allows multiple clients to request a DNS from the
   server at once. 
