@@ -1,6 +1,5 @@
 /**
  * DNS Client
- * CSci 4211 - spring 2018
  */
 import java.io.*;
 import java.net.*;
